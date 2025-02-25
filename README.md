@@ -1,1 +1,1 @@
-# python_basic_structure
+🚀 My First Python Practice Repository
